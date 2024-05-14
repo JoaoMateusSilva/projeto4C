@@ -6,7 +6,7 @@ int main() {
     Cliente clientes[MAX_CLIENTES];
     int numClientes = 0;
     ERROS erro;
-    char opcao;
+    int opcao;
 
     do {
         printf("\n ================== Menu ================== ");
